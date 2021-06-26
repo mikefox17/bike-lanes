@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bike-lanes/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bike-lanes/static/js/main.563bfadc.chunk.js",
+    "main.js.map": "/bike-lanes/static/js/main.563bfadc.chunk.js.map",
+    "runtime-main.js": "/bike-lanes/static/js/runtime-main.9830b548.js",
+    "runtime-main.js.map": "/bike-lanes/static/js/runtime-main.9830b548.js.map",
+    "static/js/2.55b0802d.chunk.js": "/bike-lanes/static/js/2.55b0802d.chunk.js",
+    "static/js/2.55b0802d.chunk.js.map": "/bike-lanes/static/js/2.55b0802d.chunk.js.map",
+    "static/js/3.bd44a536.chunk.js": "/bike-lanes/static/js/3.bd44a536.chunk.js",
+    "static/js/3.bd44a536.chunk.js.map": "/bike-lanes/static/js/3.bd44a536.chunk.js.map",
+    "index.html": "/bike-lanes/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bike-lanes/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.55b0802d.chunk.js.LICENSE.txt": "/bike-lanes/static/js/2.55b0802d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bike-lanes/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9830b548.js",
+    "static/js/2.55b0802d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.563bfadc.chunk.js"
+  ]
+}
