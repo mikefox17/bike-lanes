@@ -1,0 +1,2 @@
+(this["webpackJsonpbike-lanes"]=this["webpackJsonpbike-lanes"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),s=t.n(c),i=t(4),r=t.n(i),a=(t(3),t(0));var o=function(){return Object(a.jsx)("div",{children:Object(a.jsx)("h2",{children:"Map stuff"})})};r.a.render(Object(a.jsx)(s.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},3:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.37a28d8b.chunk.js.map
