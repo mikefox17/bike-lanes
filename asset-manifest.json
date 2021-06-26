@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bike-lanes/static/css/main.97e6ba00.chunk.css",
-    "main.js": "/bike-lanes/static/js/main.37a28d8b.chunk.js",
-    "main.js.map": "/bike-lanes/static/js/main.37a28d8b.chunk.js.map",
+    "main.css": "/bike-lanes/static/css/main.45b564ec.chunk.css",
+    "main.js": "/bike-lanes/static/js/main.c4aaf35c.chunk.js",
+    "main.js.map": "/bike-lanes/static/js/main.c4aaf35c.chunk.js.map",
     "runtime-main.js": "/bike-lanes/static/js/runtime-main.7d8c6a0c.js",
     "runtime-main.js.map": "/bike-lanes/static/js/runtime-main.7d8c6a0c.js.map",
-    "static/js/2.3c95611b.chunk.js": "/bike-lanes/static/js/2.3c95611b.chunk.js",
-    "static/js/2.3c95611b.chunk.js.map": "/bike-lanes/static/js/2.3c95611b.chunk.js.map",
+    "static/js/2.0eea3a10.chunk.js": "/bike-lanes/static/js/2.0eea3a10.chunk.js",
+    "static/js/2.0eea3a10.chunk.js.map": "/bike-lanes/static/js/2.0eea3a10.chunk.js.map",
     "index.html": "/bike-lanes/index.html",
-    "static/css/main.97e6ba00.chunk.css.map": "/bike-lanes/static/css/main.97e6ba00.chunk.css.map",
-    "static/js/2.3c95611b.chunk.js.LICENSE.txt": "/bike-lanes/static/js/2.3c95611b.chunk.js.LICENSE.txt"
+    "static/css/main.45b564ec.chunk.css.map": "/bike-lanes/static/css/main.45b564ec.chunk.css.map",
+    "static/js/2.0eea3a10.chunk.js.LICENSE.txt": "/bike-lanes/static/js/2.0eea3a10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7d8c6a0c.js",
-    "static/js/2.3c95611b.chunk.js",
-    "static/css/main.97e6ba00.chunk.css",
-    "static/js/main.37a28d8b.chunk.js"
+    "static/js/2.0eea3a10.chunk.js",
+    "static/css/main.45b564ec.chunk.css",
+    "static/js/main.c4aaf35c.chunk.js"
   ]
 }
